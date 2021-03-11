@@ -1,4 +1,9 @@
-# ai-translate
+# ai-translate + OpenAI GPT - 2 / GPT-3
+
+GPT3 connection to be added to enjoy some fun. GPT2 example below.
+
+![image](https://user-images.githubusercontent.com/11034264/110789794-90125280-8270-11eb-87b1-34567e5ba034.png)
+
 
 ```python
 text = '''Nowadays, the automatic translation will not amaze anyone,
