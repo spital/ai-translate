@@ -1,5 +1,8 @@
 # ai-translate + OpenAI GPT - 2 / GPT-3
 
+This small project evolved a bit and it is deployed with 11 languages and functions like translation, questions answering, text completion and text summarization using neural networks/ transformers from huggingface. Working web app link is available on request....
+
+
 GPT3 connection to be added to enjoy some fun. GPT2 example below.
 
 ![image](https://user-images.githubusercontent.com/11034264/110789794-90125280-8270-11eb-87b1-34567e5ba034.png)
